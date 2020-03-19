@@ -29,7 +29,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-	line-height: 1;
+    line-height: 1;
 }
 ol, ul {
 	list-style: none;
@@ -57,10 +57,118 @@ html, body {
     font-family: 'Titillium Web', sans-serif;
 }
 
-h1, h2, h3, h4, h5 {
+h1, h2, h3, h4,h5 {
     font-family: 'Bangers', cursive;
     letter-spacing: 1px;
     margin-bottom: 15px;
 }
 
 /* Your code starts here! */
+ nav{
+	 margin-right:80px;
+	display: inline-block;
+	font-size: 16px;
+	width: 100%;
+	
+}
+
+nav a{
+	color:gray;
+    line-height: 30px;
+	padding-right:40px;
+	padding-left:40px;
+}
+
+img{
+	
+	padding-left:0px;
+}
+
+
+#on{
+	
+	padding-left:350px;
+	padding-bottom:30px;
+	width:30px;
+	font-size:60px;
+	margin-top:0px;
+	display:inline-block;
+	
+}
+
+
+.logo1{
+	margin-right:0px;
+	padding-left:300px;
+	display:inline-block;
+	
+}
+
+.middle-img{
+	padding-left:350px;
+	display:block;
+	
+	
+	
+	
+}
+
+
+.Features{
+	display:inline-block;
+	margin-left: 1%;
+	width: 600px;
+	min-width: 150px;
+	padding-left:335px;
+}
+
+.About{
+	display:inline-block;
+	margin-left: 1%;
+	width: 600px;
+	min-width: 150px;
+	padding-left:250px;
+}
+
+ 
+	
+	
+    
+.Services{
+	display:inline-block;
+	box-sizing: border-box;
+	width:750px;
+	padding-left:350px;
+
+ }
+
+ .Product{
+	display:inline-block;
+	box-sizing: border-box;
+	width:450px;
+
+
+ }
+
+ .Vision{
+	display:inline-block;
+	box-sizing: border-box;
+	width:350px;
+	
+ }
+
+
+h6{
+	font-size:20px; 
+	border:2px solid black;
+	width:110px;
+	height:30px;
+}
+
+hr{
+	color:black;
+}
+
+footer{
+	text-align:center;
+}
