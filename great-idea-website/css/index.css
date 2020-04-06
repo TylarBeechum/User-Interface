@@ -67,7 +67,7 @@ h1, h2, h3, h4, h5 {
 /* Your code starts here! */
 .navbar{
 	padding-left:30%;
-	padding-bottom:80px;
+	padding-bottom:50px;
 	background-color:khaki ;
 }
 
@@ -91,7 +91,8 @@ nav a{
 }
 
 .centertop{
-	padding-left:13%;
+	padding-top:70px;
+	padding-left:9%;
 }
 .inno{
 	display:inline-block;
@@ -104,6 +105,12 @@ nav a{
 
 button{
 	margin:10px;
+	background-color:whitesmoke;
+	color:black;
+	padding: 10px 20px;
+	text-align:center;
+	border-radius:20px;
+	cursor: pointer;
 }
 
 .img{
@@ -152,7 +159,6 @@ padding-top:20px;
 .vision{
 display:inline-block;
 width: 300px;
-margin-life:20px;
 padding-left:20px;
 padding-top:20px;
 padding-bottom:20px;
